@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_252c467b27023d7e139dd5672876d6748b5642ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5f47ac8f51f633afa19a6de29ed00255b2bd1ee">
+        <dex dex="/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_a1a4e3236886afd30991bff1406a5500a7b64529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44a0c6cefde5a39efef4f52696957aefb4a5f913">
+        <dex dex="/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/pre-dexed/debug/instant-run_92aa14d5fc3f3a078795ea554bd339646cffcb75.jar" />
+    </item>
+
+</items>
