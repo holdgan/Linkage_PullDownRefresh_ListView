@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/res/merged/debug/layout/layout_right_tab.xml",
-        "source": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/src/main/res/layout/layout_right_tab.xml"
+        "merged": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/build/intermediates/res/merged/debug/layout/layout_left_item.xml",
+        "source": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/src/main/res/layout/layout_left_item.xml"
     },
     {
-        "merged": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/res/merged/debug/layout/layout_right_item.xml",
-        "source": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/src/main/res/layout/layout_right_item.xml"
+        "merged": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/build/intermediates/res/merged/debug/layout/layout_right_tab.xml",
+        "source": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/src/main/res/layout/layout_right_tab.xml"
     },
     {
-        "merged": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/res/merged/debug/layout/layout_tab_view.xml",
-        "source": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/src/main/res/layout/layout_tab_view.xml"
+        "merged": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/build/intermediates/res/merged/debug/layout/layout_tab_view.xml",
+        "source": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/src/main/res/layout/layout_tab_view.xml"
     },
     {
-        "merged": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/res/merged/debug/layout/layout_left_title.xml",
-        "source": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/src/main/res/layout/layout_left_title.xml"
+        "merged": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/build/intermediates/res/merged/debug/layout/layout_right_item.xml",
+        "source": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/src/main/res/layout/layout_right_item.xml"
     },
     {
-        "merged": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/res/merged/debug/layout/layout_left_item.xml",
-        "source": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/src/main/res/layout/layout_left_item.xml"
+        "merged": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/build/intermediates/res/merged/debug/layout/layout_left_title.xml",
+        "source": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/src/main/res/layout/layout_left_title.xml"
     }
 ]

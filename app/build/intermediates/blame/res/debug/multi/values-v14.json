@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "outputFile": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "/Users/sun/Code/sss/LeftRightScrool-股票列表联动效果/app/src/main/res/values-v14/styles.xml",
+                    "file": "/Users/sun/Code/android_project/Linkage_PullDownRefresh_ListView/app/src/main/res/values-v14/styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
